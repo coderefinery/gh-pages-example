@@ -1,0 +1,7 @@
+title: CodeRefinery project
+description: Project for teaching sustainable software research. Contact Researcher example@example.org for getting more details about project and how to join the group.
+theme: minima
+header_pages:
+ - about.md
+ - team.md
+ - publications.md
