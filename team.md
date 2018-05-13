@@ -1,16 +1,18 @@
 ---
 layout: page
 title: Team
-permalink: /team/
 ---
-## The team consists of multiple researchers
+
+# Person A
+
+Short bio ...
 
 
-### Researcher 1
-Some text that describes me lorem ipsum ipsum lorem.
+# Person B
 
-### Researcher 2
-Some text that describes me lorem ipsum ipsum lorem.
+Short bio ...
 
-#### Researcher 3
-Some text that describes me lorem ipsum ipsum lorem.
+
+# Person C
+
+Short bio ...

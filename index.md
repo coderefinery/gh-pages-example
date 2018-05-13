@@ -1,12 +1,12 @@
 ---
 layout: default
-title: gh-pages example
+title: Example
 ---
 
-## The project studies exploring new techniques for (detailed description of the project, including funding information, etc)
+# Example project
 
 ## News
-* Researcher X joined the project
-*  
 
-## Past workshops
+- Some event
+- Another exciting event
+- More news

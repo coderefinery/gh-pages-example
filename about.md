@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-## About page
-
+Brief text about the project ...
