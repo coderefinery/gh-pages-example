@@ -1,8 +1,5 @@
 title: Example project
 description: Project description in here.
-theme: minima
-header_pages:
- - about.md
- - team.md
- - publications.md
-permalink: pretty
+theme: jekyll-theme-minimal
+future: true
+baseurl: "/gh-pages-example"

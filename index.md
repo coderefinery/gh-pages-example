@@ -5,7 +5,11 @@ title: Example
 
 # Example project
 
-## News
+- [About the project](about)
+- [Publications](publications)
+- [Team](team)
+
+# News
 
 - Some event
 - Another exciting event
