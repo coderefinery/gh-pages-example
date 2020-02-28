@@ -9,6 +9,7 @@ title: Example
 - [Publications](publications)
 - [Team](team)
 - [Guidelines](Guidelines)
+
 # Getting started
 
 - Some event
