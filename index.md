@@ -3,13 +3,13 @@ layout: default
 title: Example
 ---
 
-# Example project
+# Course NAME
 
 - [About the project](about)
 - [Publications](publications)
 - [Team](team)
 - [Guidelines](Guidelines)
-# News
+# Getting started
 
 - Some event
 - Another exciting event
